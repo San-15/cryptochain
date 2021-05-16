@@ -1,0 +1,51 @@
+body {
+    background-color: #282828 ;
+    color: #FFFFFF;
+    text-align: center;
+    font-size: 20px;
+    font-family: 'Playfair Display';
+    padding-top: 5%;
+    word-wrap: break-word;
+    }
+
+.logo {
+    width: 250px;
+    height: 250px;
+}
+
+.App {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+}
+
+.walletInfo {
+    width: 500px;
+    align-items: center;
+    
+}
+
+.Block {
+    border: 5px solid #4b3a7e;
+    padding: 5%;
+    font-size: 20px;
+    margin: 2%;
+    align-items: center;
+    
+}
+
+.Transaction {
+    padding: 5%;
+}
+
+.ConductTransaction , .TransactionPool {
+    padding: 5%;
+}
+
+a, a:hover {
+    color: #e66;
+    text-decoration: underline;
+}
+
+/*# sourceMappingURL=/src.e31bb0bc.css.map */
